@@ -1,0 +1,586 @@
+[2019-06-03 13:51:29]: bert data_prep_01.py[line:14] INFO  seed is 1
+[2019-06-03 13:51:54]: bert data_prep_01.py[line:14] INFO  Seed: 1
+[2019-06-03 13:58:21]: bert data_prep_01.py[line:14] INFO  Seed: 1
+[2019-06-03 13:58:21]: bert data_prep_01.py[line:16] INFO  RAW datafile: data\raw\Train.csv
+[2019-06-03 13:58:21]: bert data_prep_01.py[line:18] INFO  Reading 20000 items from datafile
+[2019-06-03 14:01:38]: bert data_prep_01.py[line:14] INFO  Seed: 1
+[2019-06-03 14:01:38]: bert data_prep_01.py[line:16] INFO  RAW datafile: data\raw\Train.csv
+[2019-06-03 14:01:38]: bert data_prep_01.py[line:18] INFO  Reading 20000 items from datafile
+[2019-06-03 14:26:12]: bert data_prep_01.py[line:14] INFO  Seed: 1
+[2019-06-03 14:26:12]: bert data_prep_01.py[line:16] INFO  RAW datafile: data\raw\Train.csv
+[2019-06-03 14:26:12]: bert data_prep_01.py[line:18] INFO  Reading 100 items from datafile
+[2019-06-03 14:26:12]: bert data_prep_01.py[line:27] INFO  Writing data\processed\training.csv...
+[2019-06-03 15:10:39]: bert data_prep_01.py[line:14] INFO  Seed: 1
+[2019-06-03 15:10:39]: bert data_prep_01.py[line:16] INFO  RAW datafile: data\raw\Train.csv
+[2019-06-03 15:10:39]: bert data_prep_01.py[line:18] INFO  Reading 100 items from datafile
+[2019-06-03 15:10:39]: bert data_prep_01.py[line:27] INFO  Writing data\processed\training.csv...
+[2019-06-03 15:11:08]: bert data_prep_01.py[line:14] INFO  Seed: 1
+[2019-06-03 15:11:08]: bert data_prep_01.py[line:16] INFO  RAW datafile: data\raw\Train.csv
+[2019-06-03 15:11:08]: bert data_prep_01.py[line:18] INFO  Reading 100 items from datafile
+[2019-06-03 15:11:08]: bert data_prep_01.py[line:27] INFO  Writing data\processed\training.csv...
+[2019-06-03 15:17:04]: bert data_prep_01.py[line:14] INFO  Seed: 1
+[2019-06-03 15:17:04]: bert data_prep_01.py[line:16] INFO  RAW datafile: data\raw\Train.csv
+[2019-06-03 15:17:04]: bert data_prep_01.py[line:18] INFO  Reading 100 items from datafile
+[2019-06-03 15:17:04]: bert data_prep_01.py[line:34] INFO  Writing data\processed\training.csv...
+[2019-06-03 15:17:29]: bert data_prep_01.py[line:14] INFO  Seed: 1
+[2019-06-03 15:17:29]: bert data_prep_01.py[line:16] INFO  RAW datafile: data\raw\Train.csv
+[2019-06-03 15:17:29]: bert data_prep_01.py[line:18] INFO  Reading 100 items from datafile
+[2019-06-03 15:17:29]: bert data_prep_01.py[line:35] INFO  Writing data\processed\training.csv...
+[2019-06-03 15:18:07]: bert data_prep_01.py[line:14] INFO  Seed: 1
+[2019-06-03 15:18:07]: bert data_prep_01.py[line:16] INFO  RAW datafile: data\raw\Train.csv
+[2019-06-03 15:18:07]: bert data_prep_01.py[line:18] INFO  Reading 100 items from datafile
+[2019-06-03 15:18:07]: bert data_prep_01.py[line:35] INFO  Writing data\processed\training.csv...
+[2019-06-03 15:19:48]: bert data_prep_01.py[line:14] INFO  Seed: 1
+[2019-06-03 15:19:48]: bert data_prep_01.py[line:16] INFO  RAW datafile: data\raw\Train.csv
+[2019-06-03 15:19:48]: bert data_prep_01.py[line:18] INFO  Reading None items from datafile
+[2019-06-03 15:20:55]: bert data_prep_01.py[line:35] INFO  Writing data\processed\training.csv...
+[2019-06-03 15:42:52]: bert data_prep_01.py[line:16] INFO  Seed: 1
+[2019-06-03 15:42:52]: bert data_prep_01.py[line:18] INFO  RAW datafile: data\raw\Train.csv
+[2019-06-03 15:42:52]: bert data_prep_01.py[line:20] INFO  Reading None items from datafile
+[2019-06-03 15:44:11]: bert data_prep_01.py[line:51] INFO  Writing data\processed\training.csv...
+[2019-06-03 15:49:19]: bert data_prep_01.py[line:17] INFO  Seed: 1
+[2019-06-03 15:49:19]: bert data_prep_01.py[line:19] INFO  RAW datafile: data\raw\Train.csv
+[2019-06-03 15:49:19]: bert data_prep_01.py[line:21] INFO  Reading None items from datafile
+[2019-06-03 15:52:49]: bert data_prep_01.py[line:17] INFO  Seed: 1
+[2019-06-03 15:52:49]: bert data_prep_01.py[line:19] INFO  RAW datafile: data\raw\Train.csv
+[2019-06-03 15:52:49]: bert data_prep_01.py[line:21] INFO  Reading None items from datafile
+[2019-06-03 15:54:10]: bert data_prep_01.py[line:55] INFO  Writing data\processed\training.csv...
+[2019-06-03 16:06:34]: bert data_prep_01.py[line:17] INFO  Seed: 1
+[2019-06-03 16:06:34]: bert data_prep_01.py[line:19] INFO  RAW datafile: data\raw\Train.csv
+[2019-06-03 16:06:34]: bert data_prep_01.py[line:21] INFO  Reading None items from datafile
+[2019-06-03 16:10:18]: bert data_prep_01.py[line:17] INFO  Seed: 1
+[2019-06-03 16:10:18]: bert data_prep_01.py[line:19] INFO  RAW datafile: data\raw\Train.csv
+[2019-06-03 16:10:18]: bert data_prep_01.py[line:21] INFO  Reading 1000 items from datafile
+[2019-06-03 16:11:18]: bert data_prep_01.py[line:17] INFO  Seed: 1
+[2019-06-03 16:11:18]: bert data_prep_01.py[line:19] INFO  RAW datafile: data\raw\Train.csv
+[2019-06-03 16:11:18]: bert data_prep_01.py[line:21] INFO  Reading 1000 items from datafile
+[2019-06-03 16:12:24]: bert data_prep_01.py[line:17] INFO  Seed: 1
+[2019-06-03 16:12:24]: bert data_prep_01.py[line:19] INFO  RAW datafile: data\raw\Train.csv
+[2019-06-03 16:12:24]: bert data_prep_01.py[line:21] INFO  Reading 1000 items from datafile
+[2019-06-03 16:12:24]: bert data_prep_01.py[line:61] INFO  Writing data\processed\training.csv...
+[2019-06-03 16:14:07]: bert data_prep_01.py[line:17] INFO  Seed: 1
+[2019-06-03 16:14:07]: bert data_prep_01.py[line:19] INFO  RAW datafile: data\raw\Train.csv
+[2019-06-03 16:14:07]: bert data_prep_01.py[line:21] INFO  Reading 1000 items from datafile
+[2019-06-03 16:14:07]: bert data_prep_01.py[line:61] INFO  Writing data\processed\training.csv...
+[2019-06-03 16:28:05]: bert data_prep_01.py[line:17] INFO  Seed: 1
+[2019-06-03 16:28:05]: bert data_prep_01.py[line:19] INFO  RAW datafile: data\raw\Train.csv
+[2019-06-03 16:28:05]: bert data_prep_01.py[line:21] INFO  Reading 1000 items from datafile
+[2019-06-03 16:28:05]: bert data_prep_01.py[line:67] INFO  Writing data\processed\training.csv...
+[2019-06-03 16:29:04]: bert data_prep_01.py[line:17] INFO  Seed: 1
+[2019-06-03 16:29:04]: bert data_prep_01.py[line:19] INFO  RAW datafile: data\raw\Train.csv
+[2019-06-03 16:29:04]: bert data_prep_01.py[line:21] INFO  Reading 1000 items from datafile
+[2019-06-03 16:29:04]: bert data_prep_01.py[line:67] INFO  Writing data\processed\training.csv...
+[2019-06-03 16:30:58]: bert data_prep_01.py[line:17] INFO  Seed: 1
+[2019-06-03 16:30:58]: bert data_prep_01.py[line:19] INFO  RAW datafile: data\raw\Train.csv
+[2019-06-03 16:30:58]: bert data_prep_01.py[line:21] INFO  Reading 1000 items from datafile
+[2019-06-03 16:30:58]: bert data_prep_01.py[line:63] INFO  Max label count 5
+[2019-06-03 16:30:58]: bert data_prep_01.py[line:72] INFO  Writing data\processed\training.csv...
+[2019-06-03 16:33:33]: bert data_prep_01.py[line:17] INFO  Seed: 1
+[2019-06-03 16:33:33]: bert data_prep_01.py[line:19] INFO  RAW datafile: data\raw\Train.csv
+[2019-06-03 16:33:33]: bert data_prep_01.py[line:21] INFO  Reading 1000 items from datafile
+[2019-06-03 16:33:33]: bert data_prep_01.py[line:63] INFO  Max label count 5
+[2019-06-03 16:33:57]: bert data_prep_01.py[line:17] INFO  Seed: 1
+[2019-06-03 16:33:57]: bert data_prep_01.py[line:19] INFO  RAW datafile: data\raw\Train.csv
+[2019-06-03 16:33:57]: bert data_prep_01.py[line:21] INFO  Reading 1000 items from datafile
+[2019-06-03 16:33:57]: bert data_prep_01.py[line:63] INFO  Max label count 5
+[2019-06-03 16:33:57]: bert data_prep_01.py[line:74] INFO  Writing data\processed\training.csv...
+[2019-06-03 16:38:11]: bert data_prep_01.py[line:17] INFO  Seed: 1
+[2019-06-03 16:38:11]: bert data_prep_01.py[line:19] INFO  RAW datafile: data\raw\Train.csv
+[2019-06-03 16:38:11]: bert data_prep_01.py[line:21] INFO  Reading 1000 items from datafile
+[2019-06-03 16:38:11]: bert data_prep_01.py[line:63] INFO  Max label count 5
+[2019-06-03 16:38:11]: bert data_prep_01.py[line:74] INFO  Writing data\processed\training.csv...
+[2019-06-03 16:38:36]: bert data_prep_01.py[line:17] INFO  Seed: 1
+[2019-06-03 16:38:36]: bert data_prep_01.py[line:19] INFO  RAW datafile: data\raw\Train.csv
+[2019-06-03 16:38:36]: bert data_prep_01.py[line:21] INFO  Reading 1000 items from datafile
+[2019-06-03 16:38:36]: bert data_prep_01.py[line:63] INFO  Max label count 5
+[2019-06-03 16:38:36]: bert data_prep_01.py[line:74] INFO  Writing data\processed\training.csv...
+[2019-06-03 16:39:42]: bert data_prep_01.py[line:17] INFO  Seed: 1
+[2019-06-03 16:39:42]: bert data_prep_01.py[line:19] INFO  RAW datafile: data\raw\Train.csv
+[2019-06-03 16:39:42]: bert data_prep_01.py[line:21] INFO  Reading 1000 items from datafile
+[2019-06-03 16:39:42]: bert data_prep_01.py[line:63] INFO  Max label count 5
+[2019-06-03 16:39:42]: bert data_prep_01.py[line:74] INFO  Writing data\processed\training.csv...
+[2019-06-03 16:42:23]: bert data_prep_01.py[line:17] INFO  Seed: 1
+[2019-06-03 16:42:23]: bert data_prep_01.py[line:19] INFO  RAW datafile: data\raw\Train.csv
+[2019-06-03 16:42:23]: bert data_prep_01.py[line:21] INFO  Reading 1000 items from datafile
+[2019-06-03 16:42:23]: bert data_prep_01.py[line:63] INFO  Max label count 5
+[2019-06-03 16:42:23]: bert data_prep_01.py[line:74] INFO  Writing data\processed\training.csv...
+[2019-06-03 16:44:51]: bert data_prep_01.py[line:17] INFO  Seed: 1
+[2019-06-03 16:44:51]: bert data_prep_01.py[line:19] INFO  RAW datafile: data\raw\Train.csv
+[2019-06-03 16:44:51]: bert data_prep_01.py[line:21] INFO  Reading 1000 items from datafile
+[2019-06-03 16:44:51]: bert data_prep_01.py[line:63] INFO  Max label count 5
+[2019-06-03 16:45:30]: bert data_prep_01.py[line:17] INFO  Seed: 1
+[2019-06-03 16:45:30]: bert data_prep_01.py[line:19] INFO  RAW datafile: data\raw\Train.csv
+[2019-06-03 16:45:30]: bert data_prep_01.py[line:21] INFO  Reading 1000 items from datafile
+[2019-06-03 16:45:30]: bert data_prep_01.py[line:63] INFO  Max label count 5
+[2019-06-03 16:45:30]: bert data_prep_01.py[line:74] INFO  Writing data\processed\training.csv...
+[2019-06-03 16:45:47]: bert data_prep_01.py[line:17] INFO  Seed: 1
+[2019-06-03 16:45:47]: bert data_prep_01.py[line:19] INFO  RAW datafile: data\raw\Train.csv
+[2019-06-03 16:45:47]: bert data_prep_01.py[line:21] INFO  Reading 1000 items from datafile
+[2019-06-03 16:45:47]: bert data_prep_01.py[line:63] INFO  Max label count 5
+[2019-06-03 16:45:47]: bert data_prep_01.py[line:74] INFO  Writing data\processed\training.csv...
+[2019-06-03 16:46:06]: bert data_prep_01.py[line:17] INFO  Seed: 1
+[2019-06-03 16:46:06]: bert data_prep_01.py[line:19] INFO  RAW datafile: data\raw\Train.csv
+[2019-06-03 16:46:06]: bert data_prep_01.py[line:21] INFO  Reading 1000 items from datafile
+[2019-06-03 16:46:06]: bert data_prep_01.py[line:63] INFO  Max label count 5
+[2019-06-03 16:46:06]: bert data_prep_01.py[line:74] INFO  Writing data\processed\training.csv...
+[2019-06-03 16:46:54]: bert data_prep_01.py[line:17] INFO  Seed: 1
+[2019-06-03 16:46:54]: bert data_prep_01.py[line:19] INFO  RAW datafile: data\raw\Train.csv
+[2019-06-03 16:46:54]: bert data_prep_01.py[line:21] INFO  Reading 1000 items from datafile
+[2019-06-03 16:46:54]: bert data_prep_01.py[line:63] INFO  Max label count 5
+[2019-06-03 16:46:54]: bert data_prep_01.py[line:74] INFO  Writing data\processed\training.csv...
+[2019-06-03 16:47:16]: bert data_prep_01.py[line:17] INFO  Seed: 1
+[2019-06-03 16:47:16]: bert data_prep_01.py[line:19] INFO  RAW datafile: data\raw\Train.csv
+[2019-06-03 16:47:16]: bert data_prep_01.py[line:21] INFO  Reading 1000 items from datafile
+[2019-06-03 16:47:16]: bert data_prep_01.py[line:63] INFO  Max label count 5
+[2019-06-03 16:47:16]: bert data_prep_01.py[line:74] INFO  Writing data\processed\training.csv...
+[2019-06-03 16:52:27]: bert data_prep_01.py[line:17] INFO  Seed: 1
+[2019-06-03 16:52:27]: bert data_prep_01.py[line:19] INFO  RAW datafile: data\raw\Train.csv
+[2019-06-03 16:52:27]: bert data_prep_01.py[line:21] INFO  Reading 1000 items from datafile
+[2019-06-03 16:52:27]: bert data_prep_01.py[line:63] INFO  Max label count 5
+[2019-06-03 16:52:27]: bert data_prep_01.py[line:74] INFO  Writing data\processed\training.csv...
+[2019-06-03 16:53:23]: bert data_prep_01.py[line:17] INFO  Seed: 1
+[2019-06-03 16:53:23]: bert data_prep_01.py[line:19] INFO  RAW datafile: data\raw\Train.csv
+[2019-06-03 16:53:23]: bert data_prep_01.py[line:21] INFO  Reading 1000 items from datafile
+[2019-06-03 16:53:23]: bert data_prep_01.py[line:63] INFO  Max label count 5
+[2019-06-03 16:53:23]: bert data_prep_01.py[line:75] INFO  Writing data\processed\training.csv...
+[2019-06-03 17:05:47]: bert data_prep_01.py[line:17] INFO  Seed: 1
+[2019-06-03 17:05:47]: bert data_prep_01.py[line:19] INFO  RAW datafile: data\raw\Train.csv
+[2019-06-03 17:05:47]: bert data_prep_01.py[line:21] INFO  Reading 1000 items from datafile
+[2019-06-03 17:05:47]: bert data_prep_01.py[line:63] INFO  Max label count 5
+[2019-06-03 17:06:13]: bert data_prep_01.py[line:17] INFO  Seed: 1
+[2019-06-03 17:06:13]: bert data_prep_01.py[line:19] INFO  RAW datafile: data\raw\Train.csv
+[2019-06-03 17:06:13]: bert data_prep_01.py[line:21] INFO  Reading 1000 items from datafile
+[2019-06-03 17:06:13]: bert data_prep_01.py[line:63] INFO  Max label count 5
+[2019-06-03 17:06:41]: bert data_prep_01.py[line:17] INFO  Seed: 1
+[2019-06-03 17:06:41]: bert data_prep_01.py[line:19] INFO  RAW datafile: data\raw\Train.csv
+[2019-06-03 17:06:41]: bert data_prep_01.py[line:21] INFO  Reading 1000 items from datafile
+[2019-06-03 17:06:41]: bert data_prep_01.py[line:63] INFO  Max label count 5
+[2019-06-03 17:06:41]: bert data_prep_01.py[line:74] INFO  Writing data\processed\training.csv...
+[2019-06-03 17:07:31]: bert data_prep_01.py[line:17] INFO  Seed: 1
+[2019-06-03 17:07:31]: bert data_prep_01.py[line:19] INFO  RAW datafile: data\raw\Train.csv
+[2019-06-03 17:07:31]: bert data_prep_01.py[line:21] INFO  Reading 1000 items from datafile
+[2019-06-03 17:07:31]: bert data_prep_01.py[line:63] INFO  Max label count 5
+[2019-06-03 17:07:31]: bert data_prep_01.py[line:74] INFO  Writing data\processed\training.csv...
+[2019-06-03 17:08:17]: bert data_prep_01.py[line:17] INFO  Seed: 1
+[2019-06-03 17:08:17]: bert data_prep_01.py[line:19] INFO  RAW datafile: data\raw\Train.csv
+[2019-06-03 17:08:17]: bert data_prep_01.py[line:21] INFO  Reading 1000 items from datafile
+[2019-06-03 17:08:17]: bert data_prep_01.py[line:63] INFO  Max label count 5
+[2019-06-03 17:08:26]: bert data_prep_01.py[line:17] INFO  Seed: 1
+[2019-06-03 17:08:26]: bert data_prep_01.py[line:19] INFO  RAW datafile: data\raw\Train.csv
+[2019-06-03 17:08:26]: bert data_prep_01.py[line:21] INFO  Reading 1000 items from datafile
+[2019-06-03 17:08:26]: bert data_prep_01.py[line:63] INFO  Max label count 5
+[2019-06-03 17:08:26]: bert data_prep_01.py[line:74] INFO  Writing data\processed\training.csv...
+[2019-06-03 17:23:56]: bert data_prep_01.py[line:17] INFO  Seed: 1
+[2019-06-03 17:23:56]: bert data_prep_01.py[line:19] INFO  RAW datafile: data\raw\Train.csv
+[2019-06-03 17:23:56]: bert data_prep_01.py[line:21] INFO  Reading 1000 items from datafile
+[2019-06-03 17:23:56]: bert data_prep_01.py[line:63] INFO  Max label count 5
+[2019-06-03 17:23:56]: bert data_prep_01.py[line:75] INFO  Writing data\processed\training.csv...
+[2019-06-03 17:24:13]: bert data_prep_01.py[line:17] INFO  Seed: 1
+[2019-06-03 17:24:13]: bert data_prep_01.py[line:19] INFO  RAW datafile: data\raw\Train.csv
+[2019-06-03 17:24:13]: bert data_prep_01.py[line:21] INFO  Reading 1000 items from datafile
+[2019-06-03 17:24:13]: bert data_prep_01.py[line:63] INFO  Max label count 5
+[2019-06-03 17:24:13]: bert data_prep_01.py[line:75] INFO  Writing data\processed\training.csv...
+[2019-06-03 17:25:23]: bert data_prep_01.py[line:17] INFO  Seed: 1
+[2019-06-03 17:25:23]: bert data_prep_01.py[line:19] INFO  RAW datafile: data\raw\Train.csv
+[2019-06-03 17:25:23]: bert data_prep_01.py[line:21] INFO  Reading 1000 items from datafile
+[2019-06-03 17:25:23]: bert data_prep_01.py[line:63] INFO  Max label count 5
+[2019-06-03 17:25:23]: bert data_prep_01.py[line:75] INFO  Writing data\processed\training.csv...
+[2019-06-03 17:25:41]: bert data_prep_01.py[line:17] INFO  Seed: 1
+[2019-06-03 17:25:41]: bert data_prep_01.py[line:19] INFO  RAW datafile: data\raw\Train.csv
+[2019-06-03 17:25:41]: bert data_prep_01.py[line:21] INFO  Reading 1000 items from datafile
+[2019-06-03 17:25:41]: bert data_prep_01.py[line:63] INFO  Max label count 5
+[2019-06-03 17:25:41]: bert data_prep_01.py[line:75] INFO  Writing data\processed\training.csv...
+[2019-06-03 17:26:51]: bert data_prep_01.py[line:17] INFO  Seed: 1
+[2019-06-03 17:26:51]: bert data_prep_01.py[line:19] INFO  RAW datafile: data\raw\Train.csv
+[2019-06-03 17:26:51]: bert data_prep_01.py[line:21] INFO  Reading 1000 items from datafile
+[2019-06-03 17:26:51]: bert data_prep_01.py[line:63] INFO  Max label count 5
+[2019-06-03 17:26:51]: bert data_prep_01.py[line:77] INFO  Writing data\processed\training.csv...
+[2019-06-03 17:27:07]: bert data_prep_01.py[line:17] INFO  Seed: 1
+[2019-06-03 17:27:07]: bert data_prep_01.py[line:19] INFO  RAW datafile: data\raw\Train.csv
+[2019-06-03 17:27:07]: bert data_prep_01.py[line:21] INFO  Reading 1000 items from datafile
+[2019-06-03 17:27:07]: bert data_prep_01.py[line:63] INFO  Max label count 5
+[2019-06-03 17:27:07]: bert data_prep_01.py[line:78] INFO  Writing data\processed\training.csv...
+[2019-06-03 17:28:04]: bert data_prep_01.py[line:17] INFO  Seed: 1
+[2019-06-03 17:28:04]: bert data_prep_01.py[line:19] INFO  RAW datafile: data\raw\Train.csv
+[2019-06-03 17:28:04]: bert data_prep_01.py[line:21] INFO  Reading 1000 items from datafile
+[2019-06-03 17:28:04]: bert data_prep_01.py[line:63] INFO  Max label count 5
+[2019-06-03 17:28:04]: bert data_prep_01.py[line:79] INFO  Writing data\processed\training.csv...
+[2019-06-03 17:30:25]: bert data_prep_01.py[line:17] INFO  Seed: 1
+[2019-06-03 17:30:25]: bert data_prep_01.py[line:19] INFO  RAW datafile: data\raw\Train.csv
+[2019-06-03 17:30:25]: bert data_prep_01.py[line:21] INFO  Reading 1000 items from datafile
+[2019-06-03 17:30:25]: bert data_prep_01.py[line:63] INFO  Max label count 5
+[2019-06-03 17:32:35]: bert data_prep_01.py[line:17] INFO  Seed: 1
+[2019-06-03 17:32:35]: bert data_prep_01.py[line:19] INFO  RAW datafile: data\raw\Train.csv
+[2019-06-03 17:32:35]: bert data_prep_01.py[line:21] INFO  Reading 1000 items from datafile
+[2019-06-03 17:32:35]: bert data_prep_01.py[line:63] INFO  Max label count 5
+[2019-06-03 17:33:29]: bert data_prep_01.py[line:17] INFO  Seed: 1
+[2019-06-03 17:33:29]: bert data_prep_01.py[line:19] INFO  RAW datafile: data\raw\Train.csv
+[2019-06-03 17:33:29]: bert data_prep_01.py[line:21] INFO  Reading 1000 items from datafile
+[2019-06-03 17:33:29]: bert data_prep_01.py[line:63] INFO  Max label count 5
+[2019-06-03 17:33:29]: bert data_prep_01.py[line:80] INFO  Writing data\processed\training.csv...
+[2019-06-03 18:46:31]: bert data_prep_01.py[line:17] INFO  Seed: 1
+[2019-06-03 18:46:31]: bert data_prep_01.py[line:19] INFO  RAW datafile: data\raw\Train.csv
+[2019-06-03 18:46:31]: bert data_prep_01.py[line:21] INFO  Reading 1000 items from datafile
+[2019-06-03 18:46:31]: bert data_prep_01.py[line:63] INFO  Max label count 5
+[2019-06-03 18:46:31]: bert data_prep_01.py[line:81] INFO  Writing data\processed\training.csv...
+[2019-06-03 18:49:20]: bert data_prep_01.py[line:17] INFO  Seed: 1
+[2019-06-03 18:49:20]: bert data_prep_01.py[line:19] INFO  RAW datafile: data\raw\Train.csv
+[2019-06-03 18:49:20]: bert data_prep_01.py[line:21] INFO  Reading 1000 items from datafile
+[2019-06-03 18:49:20]: bert data_prep_01.py[line:63] INFO  Max label count 5
+[2019-06-03 18:49:20]: bert data_prep_01.py[line:81] INFO  Writing data\processed\training.csv...
+[2019-06-03 18:50:05]: bert data_prep_01.py[line:17] INFO  Seed: 1
+[2019-06-03 18:50:05]: bert data_prep_01.py[line:19] INFO  RAW datafile: data\raw\Train.csv
+[2019-06-03 18:50:05]: bert data_prep_01.py[line:21] INFO  Reading 1000 items from datafile
+[2019-06-03 18:50:05]: bert data_prep_01.py[line:63] INFO  Max label count 5
+[2019-06-03 18:50:05]: bert data_prep_01.py[line:82] INFO  Writing data\processed\training.csv...
+[2019-06-03 18:51:25]: bert data_prep_01.py[line:17] INFO  Seed: 1
+[2019-06-03 18:51:25]: bert data_prep_01.py[line:19] INFO  RAW datafile: data\raw\Train.csv
+[2019-06-03 18:51:25]: bert data_prep_01.py[line:21] INFO  Reading 1000 items from datafile
+[2019-06-03 18:51:25]: bert data_prep_01.py[line:63] INFO  Max label count 5
+[2019-06-03 18:52:26]: bert data_prep_01.py[line:17] INFO  Seed: 1
+[2019-06-03 18:52:26]: bert data_prep_01.py[line:19] INFO  RAW datafile: data\raw\Train.csv
+[2019-06-03 18:52:26]: bert data_prep_01.py[line:21] INFO  Reading 1000 items from datafile
+[2019-06-03 18:52:26]: bert data_prep_01.py[line:63] INFO  Max label count 5
+[2019-06-03 18:53:57]: bert data_prep_01.py[line:17] INFO  Seed: 1
+[2019-06-03 18:53:57]: bert data_prep_01.py[line:19] INFO  RAW datafile: data\raw\Train.csv
+[2019-06-03 18:53:57]: bert data_prep_01.py[line:21] INFO  Reading 1000 items from datafile
+[2019-06-03 18:53:57]: bert data_prep_01.py[line:63] INFO  Max label count 5
+[2019-06-03 18:54:25]: bert data_prep_01.py[line:17] INFO  Seed: 1
+[2019-06-03 18:54:25]: bert data_prep_01.py[line:19] INFO  RAW datafile: data\raw\Train.csv
+[2019-06-03 18:54:25]: bert data_prep_01.py[line:21] INFO  Reading 1000 items from datafile
+[2019-06-03 18:54:25]: bert data_prep_01.py[line:63] INFO  Max label count 5
+[2019-06-03 18:54:25]: bert data_prep_01.py[line:79] INFO  Writing data\processed\training.csv...
+[2019-06-03 18:55:04]: bert data_prep_01.py[line:17] INFO  Seed: 1
+[2019-06-03 18:55:04]: bert data_prep_01.py[line:19] INFO  RAW datafile: data\raw\Train.csv
+[2019-06-03 18:55:04]: bert data_prep_01.py[line:21] INFO  Reading 1000 items from datafile
+[2019-06-03 18:55:04]: bert data_prep_01.py[line:63] INFO  Max label count 5
+[2019-06-03 18:55:04]: bert data_prep_01.py[line:81] INFO  Writing data\processed\training.csv...
+[2019-06-03 18:55:15]: bert data_prep_01.py[line:17] INFO  Seed: 1
+[2019-06-03 18:55:15]: bert data_prep_01.py[line:19] INFO  RAW datafile: data\raw\Train.csv
+[2019-06-03 18:55:15]: bert data_prep_01.py[line:21] INFO  Reading 1000 items from datafile
+[2019-06-03 18:55:15]: bert data_prep_01.py[line:63] INFO  Max label count 5
+[2019-06-03 18:55:15]: bert data_prep_01.py[line:81] INFO  Writing data\processed\training.csv...
+[2019-06-03 18:58:59]: bert data_prep_01.py[line:17] INFO  Seed: 1
+[2019-06-03 18:58:59]: bert data_prep_01.py[line:19] INFO  RAW datafile: data\raw\Train.csv
+[2019-06-03 18:58:59]: bert data_prep_01.py[line:21] INFO  Reading 1000 items from datafile
+[2019-06-03 18:58:59]: bert data_prep_01.py[line:63] INFO  Max label count 5
+[2019-06-03 18:59:16]: bert data_prep_01.py[line:17] INFO  Seed: 1
+[2019-06-03 18:59:16]: bert data_prep_01.py[line:19] INFO  RAW datafile: data\raw\Train.csv
+[2019-06-03 18:59:16]: bert data_prep_01.py[line:21] INFO  Reading 1000 items from datafile
+[2019-06-03 18:59:16]: bert data_prep_01.py[line:63] INFO  Max label count 5
+[2019-06-03 18:59:16]: bert data_prep_01.py[line:83] INFO  Writing data\processed\training.csv...
+[2019-06-03 18:59:58]: bert data_prep_01.py[line:17] INFO  Seed: 1
+[2019-06-03 18:59:58]: bert data_prep_01.py[line:19] INFO  RAW datafile: data\raw\Train.csv
+[2019-06-03 18:59:58]: bert data_prep_01.py[line:21] INFO  Reading 1000 items from datafile
+[2019-06-03 18:59:58]: bert data_prep_01.py[line:63] INFO  Max label count 5
+[2019-06-03 18:59:58]: bert data_prep_01.py[line:83] INFO  Writing data\processed\training.csv...
+[2019-06-03 19:01:28]: bert data_prep_01.py[line:17] INFO  Seed: 1
+[2019-06-03 19:01:28]: bert data_prep_01.py[line:19] INFO  RAW datafile: data\raw\Train.csv
+[2019-06-03 19:01:28]: bert data_prep_01.py[line:21] INFO  Reading 1000 items from datafile
+[2019-06-03 19:01:28]: bert data_prep_01.py[line:63] INFO  Max label count 5
+[2019-06-03 19:02:08]: bert data_prep_01.py[line:17] INFO  Seed: 1
+[2019-06-03 19:02:08]: bert data_prep_01.py[line:19] INFO  RAW datafile: data\raw\Train.csv
+[2019-06-03 19:02:08]: bert data_prep_01.py[line:21] INFO  Reading 1000 items from datafile
+[2019-06-03 19:02:08]: bert data_prep_01.py[line:63] INFO  Max label count 5
+[2019-06-03 19:02:08]: bert data_prep_01.py[line:83] INFO  Writing data\processed\training.csv...
+[2019-06-03 19:04:09]: bert data_prep_01.py[line:17] INFO  Seed: 1
+[2019-06-03 19:04:09]: bert data_prep_01.py[line:19] INFO  RAW datafile: data\raw\Train.csv
+[2019-06-03 19:04:09]: bert data_prep_01.py[line:21] INFO  Reading 1000 items from datafile
+[2019-06-03 19:04:09]: bert data_prep_01.py[line:60] INFO  Max label count 5
+[2019-06-03 19:04:09]: bert data_prep_01.py[line:71] INFO  Unique labels: 1402
+[2019-06-03 19:04:09]: bert data_prep_01.py[line:78] INFO  Writing data\processed\training.csv...
+[2019-06-03 19:05:12]: bert data_prep_01.py[line:17] INFO  Seed: 1
+[2019-06-03 19:05:12]: bert data_prep_01.py[line:19] INFO  RAW datafile: data\raw\Train.csv
+[2019-06-03 19:05:12]: bert data_prep_01.py[line:21] INFO  Reading 1000 items from datafile
+[2019-06-03 19:05:12]: bert data_prep_01.py[line:60] INFO  Max label count per data item 5
+[2019-06-03 19:05:12]: bert data_prep_01.py[line:71] INFO  Unique labels: 1402
+[2019-06-03 19:05:12]: bert data_prep_01.py[line:76] INFO  Writing data\processed\training.csv...
+[2019-06-03 19:05:32]: bert data_prep_01.py[line:17] INFO  Seed: 1
+[2019-06-03 19:05:32]: bert data_prep_01.py[line:19] INFO  RAW datafile: data\raw\Train.csv
+[2019-06-03 19:05:32]: bert data_prep_01.py[line:21] INFO  Reading 1000 items from datafile
+[2019-06-03 19:05:32]: bert data_prep_01.py[line:60] INFO  Max label count per data item 5
+[2019-06-03 19:05:32]: bert data_prep_01.py[line:71] INFO  Unique labels: 1402
+[2019-06-03 19:05:32]: bert data_prep_01.py[line:76] INFO  Writing data\processed\training.csv...
+[2019-06-03 19:05:56]: bert data_prep_01.py[line:17] INFO  Seed: 1
+[2019-06-03 19:05:56]: bert data_prep_01.py[line:19] INFO  RAW datafile: data\raw\Train.csv
+[2019-06-03 19:05:56]: bert data_prep_01.py[line:21] INFO  Reading 1000 items from datafile
+[2019-06-03 19:05:56]: bert data_prep_01.py[line:60] INFO  Max label count per data item 5
+[2019-06-03 19:05:56]: bert data_prep_01.py[line:71] INFO  Unique labels: 1402
+[2019-06-03 19:05:56]: bert data_prep_01.py[line:76] INFO  Writing data\processed\training.csv...
+[2019-06-03 19:06:57]: bert data_prep_01.py[line:17] INFO  Seed: 1
+[2019-06-03 19:06:57]: bert data_prep_01.py[line:19] INFO  RAW datafile: data\raw\Train.csv
+[2019-06-03 19:06:57]: bert data_prep_01.py[line:21] INFO  Reading 1000 items from datafile
+[2019-06-03 19:06:57]: bert data_prep_01.py[line:60] INFO  Max label count per data item 5
+[2019-06-03 19:06:57]: bert data_prep_01.py[line:71] INFO  Unique labels: 1402
+[2019-06-03 19:06:57]: bert data_prep_01.py[line:79] INFO  Writing data\processed\training.csv...
+[2019-06-03 19:08:11]: bert data_prep_01.py[line:17] INFO  Seed: 1
+[2019-06-03 19:08:11]: bert data_prep_01.py[line:19] INFO  RAW datafile: data\raw\Train.csv
+[2019-06-03 19:08:11]: bert data_prep_01.py[line:21] INFO  Reading 1000 items from datafile
+[2019-06-03 19:08:11]: bert data_prep_01.py[line:60] INFO  Max label count per data item 5
+[2019-06-03 19:08:11]: bert data_prep_01.py[line:71] INFO  Unique labels: 1402
+[2019-06-03 19:08:11]: bert data_prep_01.py[line:79] INFO  Writing data\processed\training.csv...
+[2019-06-03 19:13:10]: bert data_prep_01.py[line:17] INFO  Seed: 1
+[2019-06-03 19:13:10]: bert data_prep_01.py[line:19] INFO  RAW datafile: data\raw\Train.csv
+[2019-06-03 19:13:10]: bert data_prep_01.py[line:21] INFO  Reading 1000 items from datafile
+[2019-06-03 19:13:10]: bert data_prep_01.py[line:60] INFO  Max label count per data item 5
+[2019-06-03 19:13:10]: bert data_prep_01.py[line:71] INFO  Unique labels: 1402
+[2019-06-03 19:13:10]: bert data_prep_01.py[line:81] INFO  Writing data\processed\training.csv...
+[2019-06-03 19:13:27]: bert data_prep_01.py[line:17] INFO  Seed: 1
+[2019-06-03 19:13:27]: bert data_prep_01.py[line:19] INFO  RAW datafile: data\raw\Train.csv
+[2019-06-03 19:13:27]: bert data_prep_01.py[line:21] INFO  Reading 1000 items from datafile
+[2019-06-03 19:13:27]: bert data_prep_01.py[line:60] INFO  Max label count per data item 5
+[2019-06-03 19:13:27]: bert data_prep_01.py[line:71] INFO  Unique labels: 1402
+[2019-06-03 19:13:27]: bert data_prep_01.py[line:81] INFO  Writing data\processed\training.csv...
+[2019-06-03 19:17:06]: bert data_prep_01.py[line:17] INFO  Seed: 1
+[2019-06-03 19:17:06]: bert data_prep_01.py[line:19] INFO  RAW datafile: data\raw\Train.csv
+[2019-06-03 19:17:06]: bert data_prep_01.py[line:21] INFO  Reading 1000 items from datafile
+[2019-06-03 19:17:06]: bert data_prep_01.py[line:60] INFO  Max label count per data item 5
+[2019-06-03 19:17:06]: bert data_prep_01.py[line:72] INFO  Unique labels: 1402
+[2019-06-03 19:17:06]: bert data_prep_01.py[line:83] INFO  Writing data\processed\training.csv...
+[2019-06-03 20:55:43]: bert data_prep_01.py[line:17] INFO  Seed: 1
+[2019-06-03 20:55:43]: bert data_prep_01.py[line:19] INFO  RAW datafile: data\raw\Train.csv
+[2019-06-03 20:55:43]: bert data_prep_01.py[line:21] INFO  Reading 1000 items from datafile
+[2019-06-03 20:55:44]: bert data_prep_01.py[line:60] INFO  Max label count per data item 5
+[2019-06-03 20:55:44]: bert data_prep_01.py[line:72] INFO  Unique labels: 1402
+[2019-06-03 20:55:44]: bert data_prep_01.py[line:82] INFO  Writing data\processed\training.csv...
+[2019-06-03 20:56:25]: bert data_prep_01.py[line:17] INFO  Seed: 1
+[2019-06-03 20:56:25]: bert data_prep_01.py[line:19] INFO  RAW datafile: data\raw\Train.csv
+[2019-06-03 20:56:25]: bert data_prep_01.py[line:21] INFO  Reading 1000 items from datafile
+[2019-06-03 20:56:25]: bert data_prep_01.py[line:60] INFO  Max label count per data item 5
+[2019-06-03 20:56:25]: bert data_prep_01.py[line:72] INFO  Unique labels: 1402
+[2019-06-03 20:56:25]: bert data_prep_01.py[line:82] INFO  Writing data\processed\training.csv...
+[2019-06-03 21:55:26]: bert data_prep_01.py[line:17] INFO  Seed: 1
+[2019-06-03 21:55:26]: bert data_prep_01.py[line:19] INFO  RAW datafile: data\raw\Train.csv
+[2019-06-03 21:55:26]: bert data_prep_01.py[line:21] INFO  Reading 1000 items from datafile
+[2019-06-03 21:55:26]: bert data_prep_01.py[line:60] INFO  Max label count per data item 5
+[2019-06-03 21:55:26]: bert data_prep_01.py[line:72] INFO  Unique labels: 1402
+[2019-06-03 21:55:26]: bert data_prep_01.py[line:82] INFO  Writing data\processed\training.csv...
+[2019-06-03 21:55:45]: bert data_prep_01.py[line:17] INFO  Seed: 1
+[2019-06-03 21:55:45]: bert data_prep_01.py[line:19] INFO  RAW datafile: data\raw\Train.csv
+[2019-06-03 21:55:45]: bert data_prep_01.py[line:21] INFO  Reading 10000 items from datafile
+[2019-06-03 21:55:45]: bert data_prep_01.py[line:60] INFO  Max label count per data item 5
+[2019-06-03 21:55:45]: bert data_prep_01.py[line:72] INFO  Unique labels: 6124
+[2019-06-03 21:55:45]: bert data_prep_01.py[line:82] INFO  Writing data\processed\training.csv...
+[2019-06-03 21:58:19]: bert data_prep_01.py[line:17] INFO  Seed: 1
+[2019-06-03 21:58:19]: bert data_prep_01.py[line:19] INFO  RAW datafile: data\raw\Train.csv
+[2019-06-03 21:58:19]: bert data_prep_01.py[line:21] INFO  Reading 10000 items from datafile
+[2019-06-03 21:58:20]: bert data_prep_01.py[line:60] INFO  Max label count per data item 5
+[2019-06-03 21:58:20]: bert data_prep_01.py[line:72] INFO  Unique labels: 6124
+[2019-06-03 21:58:20]: bert data_prep_01.py[line:82] INFO  Writing data\processed\training.csv...
+[2019-06-03 22:00:23]: bert data_prep_01.py[line:17] INFO  Seed: 1
+[2019-06-03 22:00:23]: bert data_prep_01.py[line:19] INFO  RAW datafile: data\raw\Train.csv
+[2019-06-03 22:00:23]: bert data_prep_01.py[line:21] INFO  Reading 10000 items from datafile
+[2019-06-03 22:00:23]: bert data_prep_01.py[line:60] INFO  Max label count per data item 5
+[2019-06-03 22:00:23]: bert data_prep_01.py[line:72] INFO  Unique labels: 6124
+[2019-06-03 22:00:23]: bert data_prep_01.py[line:83] INFO  Writing data\processed\training.csv...
+[2019-06-03 22:00:35]: bert data_prep_01.py[line:17] INFO  Seed: 1
+[2019-06-03 22:00:35]: bert data_prep_01.py[line:19] INFO  RAW datafile: data\raw\Train.csv
+[2019-06-03 22:00:35]: bert data_prep_01.py[line:21] INFO  Reading 10000 items from datafile
+[2019-06-03 22:00:35]: bert data_prep_01.py[line:60] INFO  Max label count per data item 5
+[2019-06-03 22:00:35]: bert data_prep_01.py[line:72] INFO  Unique labels: 6124
+[2019-06-03 22:00:35]: bert data_prep_01.py[line:83] INFO  Writing data\processed\training.csv...
+[2019-06-03 22:01:52]: bert data_prep_01.py[line:17] INFO  Seed: 1
+[2019-06-03 22:01:52]: bert data_prep_01.py[line:19] INFO  RAW datafile: data\raw\Train.csv
+[2019-06-03 22:01:52]: bert data_prep_01.py[line:21] INFO  Reading 10000 items from datafile
+[2019-06-03 22:01:52]: bert data_prep_01.py[line:60] INFO  Max label count per data item 5
+[2019-06-03 22:01:52]: bert data_prep_01.py[line:72] INFO  Unique labels: 6124
+[2019-06-03 22:01:52]: bert data_prep_01.py[line:87] INFO  Writing data\processed\training.csv...
+[2019-06-03 22:34:07]: bert data_prep_01.py[line:17] INFO  Seed: 1
+[2019-06-03 22:34:07]: bert data_prep_01.py[line:19] INFO  RAW datafile: data\raw\Train.csv
+[2019-06-03 22:34:07]: bert data_prep_01.py[line:21] INFO  Reading 10000 items from datafile
+[2019-06-03 22:34:08]: bert data_prep_01.py[line:59] INFO  Max label count per data item 5
+[2019-06-03 22:34:08]: bert data_prep_01.py[line:71] INFO  Unique labels: 6124
+[2019-06-03 22:34:08]: bert data_prep_01.py[line:90] INFO  Writing data\processed\training.csv...
+[2019-06-03 22:34:34]: bert data_prep_01.py[line:17] INFO  Seed: 1
+[2019-06-03 22:34:34]: bert data_prep_01.py[line:19] INFO  RAW datafile: data\raw\Train.csv
+[2019-06-03 22:34:34]: bert data_prep_01.py[line:21] INFO  Reading 10000 items from datafile
+[2019-06-03 22:34:35]: bert data_prep_01.py[line:59] INFO  Max label count per data item 5
+[2019-06-03 22:34:35]: bert data_prep_01.py[line:71] INFO  Unique labels: 6124
+[2019-06-03 22:34:41]: bert data_prep_01.py[line:90] INFO  Writing data\processed\training.csv...
+[2019-06-03 22:37:59]: bert data_prep_01.py[line:17] INFO  Seed: 1
+[2019-06-03 22:37:59]: bert data_prep_01.py[line:19] INFO  RAW datafile: data\raw\Train.csv
+[2019-06-03 22:37:59]: bert data_prep_01.py[line:21] INFO  Reading 10000 items from datafile
+[2019-06-03 22:38:00]: bert data_prep_01.py[line:59] INFO  Max label count per data item 5
+[2019-06-03 22:38:00]: bert data_prep_01.py[line:71] INFO  Unique labels: 6124
+[2019-06-03 22:44:11]: bert data_prep_01.py[line:17] INFO  Seed: 1
+[2019-06-03 22:44:11]: bert data_prep_01.py[line:19] INFO  RAW datafile: data\raw\Train.csv
+[2019-06-03 22:44:11]: bert data_prep_01.py[line:21] INFO  Reading 10000 items from datafile
+[2019-06-03 22:44:12]: bert data_prep_01.py[line:59] INFO  Max label count per data item 5
+[2019-06-03 22:44:12]: bert data_prep_01.py[line:71] INFO  Unique labels: 6124
+[2019-06-03 22:45:37]: bert data_prep_01.py[line:17] INFO  Seed: 1
+[2019-06-03 22:45:37]: bert data_prep_01.py[line:19] INFO  RAW datafile: data\raw\Train.csv
+[2019-06-03 22:45:37]: bert data_prep_01.py[line:21] INFO  Reading 10000 items from datafile
+[2019-06-03 22:45:37]: bert data_prep_01.py[line:59] INFO  Max label count per data item 5
+[2019-06-03 22:45:37]: bert data_prep_01.py[line:71] INFO  Unique labels: 6124
+[2019-06-03 22:46:04]: bert data_prep_01.py[line:17] INFO  Seed: 1
+[2019-06-03 22:46:04]: bert data_prep_01.py[line:19] INFO  RAW datafile: data\raw\Train.csv
+[2019-06-03 22:46:04]: bert data_prep_01.py[line:21] INFO  Reading 1000 items from datafile
+[2019-06-03 22:46:04]: bert data_prep_01.py[line:59] INFO  Max label count per data item 5
+[2019-06-03 22:46:04]: bert data_prep_01.py[line:71] INFO  Unique labels: 1402
+[2019-06-03 22:46:08]: bert data_prep_01.py[line:94] INFO  Writing data\processed\training.csv...
+[2019-06-03 22:50:45]: bert data_prep_01.py[line:17] INFO  Seed: 1
+[2019-06-03 22:50:45]: bert data_prep_01.py[line:19] INFO  RAW datafile: data\raw\Train.csv
+[2019-06-03 22:50:45]: bert data_prep_01.py[line:21] INFO  Reading 1000 items from datafile
+[2019-06-03 22:50:45]: bert data_prep_01.py[line:61] INFO  Max label count per data item 5
+[2019-06-03 22:50:45]: bert data_prep_01.py[line:73] INFO  Unique labels: 1402
+[2019-06-03 22:50:45]: bert data_prep_01.py[line:90] INFO  Writing data\processed\training.csv...
+[2019-06-03 22:51:17]: bert data_prep_01.py[line:17] INFO  Seed: 1
+[2019-06-03 22:51:17]: bert data_prep_01.py[line:19] INFO  RAW datafile: data\raw\Train.csv
+[2019-06-03 22:51:17]: bert data_prep_01.py[line:21] INFO  Reading 1000 items from datafile
+[2019-06-03 22:51:17]: bert data_prep_01.py[line:61] INFO  Max label count per data item 5
+[2019-06-03 22:51:17]: bert data_prep_01.py[line:73] INFO  Unique labels: 1402
+[2019-06-03 22:51:17]: bert data_prep_01.py[line:90] INFO  Writing data\processed\training.csv...
+[2019-06-03 22:52:01]: bert data_prep_01.py[line:17] INFO  Seed: 1
+[2019-06-03 22:52:01]: bert data_prep_01.py[line:19] INFO  RAW datafile: data\raw\Train.csv
+[2019-06-03 22:52:01]: bert data_prep_01.py[line:21] INFO  Reading 1000 items from datafile
+[2019-06-03 22:52:01]: bert data_prep_01.py[line:61] INFO  Max label count per data item 5
+[2019-06-03 22:52:01]: bert data_prep_01.py[line:73] INFO  Unique labels: 1402
+[2019-06-03 22:52:01]: bert data_prep_01.py[line:90] INFO  Writing data\processed\training.csv...
+[2019-06-03 22:52:27]: bert data_prep_01.py[line:17] INFO  Seed: 1
+[2019-06-03 22:52:27]: bert data_prep_01.py[line:19] INFO  RAW datafile: data\raw\Train.csv
+[2019-06-03 22:52:27]: bert data_prep_01.py[line:21] INFO  Reading 1000 items from datafile
+[2019-06-03 22:52:27]: bert data_prep_01.py[line:61] INFO  Max label count per data item 5
+[2019-06-03 22:52:27]: bert data_prep_01.py[line:73] INFO  Unique labels: 1402
+[2019-06-03 22:52:27]: bert data_prep_01.py[line:90] INFO  Writing data\processed\training.csv...
+[2019-06-03 22:53:03]: bert data_prep_01.py[line:17] INFO  Seed: 1
+[2019-06-03 22:53:03]: bert data_prep_01.py[line:19] INFO  RAW datafile: data\raw\Train.csv
+[2019-06-03 22:53:03]: bert data_prep_01.py[line:21] INFO  Reading 1000 items from datafile
+[2019-06-03 22:53:03]: bert data_prep_01.py[line:61] INFO  Max label count per data item 5
+[2019-06-03 22:53:03]: bert data_prep_01.py[line:73] INFO  Unique labels: 1402
+[2019-06-03 22:53:03]: bert data_prep_01.py[line:90] INFO  Writing data\processed\training.csv...
+[2019-06-03 23:00:16]: bert data_prep_01.py[line:17] INFO  Seed: 1
+[2019-06-03 23:00:16]: bert data_prep_01.py[line:19] INFO  RAW datafile: data\raw\Train.csv
+[2019-06-03 23:00:16]: bert data_prep_01.py[line:21] INFO  Reading 1000 items from datafile
+[2019-06-03 23:04:13]: bert data_prep_01.py[line:17] INFO  Seed: 1
+[2019-06-03 23:04:13]: bert data_prep_01.py[line:19] INFO  RAW datafile: data\raw\Train.csv
+[2019-06-03 23:04:13]: bert data_prep_01.py[line:21] INFO  Reading 1000 items from datafile
+[2019-06-03 23:05:35]: bert data_prep_01.py[line:17] INFO  Seed: 1
+[2019-06-03 23:05:35]: bert data_prep_01.py[line:19] INFO  RAW datafile: data\raw\Train.csv
+[2019-06-03 23:05:35]: bert data_prep_01.py[line:21] INFO  Reading 1000 items from datafile
+[2019-06-03 23:05:35]: bert data_prep_01.py[line:61] INFO  Max label count per data item 5
+[2019-06-03 23:05:35]: bert data_prep_01.py[line:73] INFO  Unique labels: 1402
+[2019-06-03 23:05:35]: bert data_prep_01.py[line:90] INFO  Writing data\processed\training.csv...
+[2019-06-03 23:06:19]: bert data_prep_01.py[line:17] INFO  Seed: 1
+[2019-06-03 23:06:19]: bert data_prep_01.py[line:19] INFO  RAW datafile: data\raw\Train.csv
+[2019-06-03 23:06:19]: bert data_prep_01.py[line:21] INFO  Reading 1000 items from datafile
+[2019-06-03 23:06:36]: bert data_prep_01.py[line:17] INFO  Seed: 1
+[2019-06-03 23:06:36]: bert data_prep_01.py[line:19] INFO  RAW datafile: data\raw\Train.csv
+[2019-06-03 23:06:36]: bert data_prep_01.py[line:21] INFO  Reading 1000 items from datafile
+[2019-06-03 23:06:36]: bert data_prep_01.py[line:62] INFO  Max label count per data item 5
+[2019-06-03 23:06:36]: bert data_prep_01.py[line:74] INFO  Unique labels: 1402
+[2019-06-03 23:06:36]: bert data_prep_01.py[line:91] INFO  Writing data\processed\training.csv...
+[2019-06-03 23:07:33]: bert data_prep_01.py[line:17] INFO  Seed: 1
+[2019-06-03 23:07:33]: bert data_prep_01.py[line:19] INFO  RAW datafile: data\raw\Train.csv
+[2019-06-03 23:07:33]: bert data_prep_01.py[line:21] INFO  Reading 1000 items from datafile
+[2019-06-03 23:07:33]: bert data_prep_01.py[line:62] INFO  Max label count per data item 5
+[2019-06-03 23:07:33]: bert data_prep_01.py[line:74] INFO  Unique labels: 1402
+[2019-06-03 23:07:33]: bert data_prep_01.py[line:91] INFO  Writing data\processed\training.csv...
+[2019-06-03 23:08:43]: bert data_prep_01.py[line:17] INFO  Seed: 1
+[2019-06-03 23:08:43]: bert data_prep_01.py[line:19] INFO  RAW datafile: data\raw\Train.csv
+[2019-06-03 23:08:43]: bert data_prep_01.py[line:21] INFO  Reading 1000 items from datafile
+[2019-06-03 23:08:43]: bert data_prep_01.py[line:62] INFO  Max label count per data item 5
+[2019-06-03 23:08:43]: bert data_prep_01.py[line:74] INFO  Unique labels: 1402
+[2019-06-03 23:08:43]: bert data_prep_01.py[line:91] INFO  Writing data\processed\training.csv...
+[2019-06-03 23:10:34]: bert data_prep_01.py[line:18] INFO  Seed: 1
+[2019-06-03 23:10:34]: bert data_prep_01.py[line:20] INFO  RAW datafile: data\raw\Train.csv
+[2019-06-03 23:10:34]: bert data_prep_01.py[line:22] INFO  Reading 1000 items from datafile
+[2019-06-03 23:10:34]: bert data_prep_01.py[line:63] INFO  Max label count per data item 5
+[2019-06-03 23:10:34]: bert data_prep_01.py[line:75] INFO  Unique labels: 1402
+[2019-06-03 23:10:34]: bert data_prep_01.py[line:92] INFO  Writing data\processed\training.csv...
+[2019-06-03 23:10:57]: bert data_prep_01.py[line:18] INFO  Seed: 1
+[2019-06-03 23:10:57]: bert data_prep_01.py[line:20] INFO  RAW datafile: data\raw\Train.csv
+[2019-06-03 23:10:57]: bert data_prep_01.py[line:22] INFO  Reading 1000 items from datafile
+[2019-06-03 23:10:57]: bert data_prep_01.py[line:63] INFO  Max label count per data item 5
+[2019-06-03 23:10:57]: bert data_prep_01.py[line:75] INFO  Unique labels: 1402
+[2019-06-03 23:10:57]: bert data_prep_01.py[line:90] INFO  Writing data\processed\training.csv...
+[2019-06-03 23:13:02]: bert data_prep_01.py[line:18] INFO  Seed: 1
+[2019-06-03 23:13:02]: bert data_prep_01.py[line:20] INFO  RAW datafile: data\raw\Train.csv
+[2019-06-03 23:13:02]: bert data_prep_01.py[line:22] INFO  Reading 1000 items from datafile
+[2019-06-03 23:13:02]: bert data_prep_01.py[line:64] INFO  Max label count per data item 5
+[2019-06-03 23:13:02]: bert data_prep_01.py[line:76] INFO  Unique labels: 1402
+[2019-06-03 23:13:02]: bert data_prep_01.py[line:91] INFO  Writing data\processed\training.csv...
+[2019-06-03 23:14:02]: bert data_prep_01.py[line:18] INFO  Seed: 1
+[2019-06-03 23:14:02]: bert data_prep_01.py[line:20] INFO  RAW datafile: data\raw\Train.csv
+[2019-06-03 23:14:02]: bert data_prep_01.py[line:22] INFO  Reading 1000 items from datafile
+[2019-06-03 23:14:02]: bert data_prep_01.py[line:64] INFO  Max label count per data item 5
+[2019-06-03 23:14:02]: bert data_prep_01.py[line:76] INFO  Unique labels: 1402
+[2019-06-03 23:14:03]: bert data_prep_01.py[line:90] INFO  Writing data\processed\training.csv...
+[2019-06-03 23:23:28]: bert data_prep_01.py[line:18] INFO  Seed: 1
+[2019-06-03 23:23:28]: bert data_prep_01.py[line:20] INFO  RAW datafile: data\raw\Train.csv
+[2019-06-03 23:23:28]: bert data_prep_01.py[line:22] INFO  Reading 1000 items from datafile
+[2019-06-03 23:23:28]: bert data_prep_01.py[line:61] INFO  Max label count per data item 5
+[2019-06-03 23:23:28]: bert data_prep_01.py[line:73] INFO  Unique labels: 1402
+[2019-06-03 23:23:28]: bert data_prep_01.py[line:91] INFO  Writing data\processed\training.csv...
+[2019-06-03 23:52:51]: bert data_prep_01.py[line:18] INFO  Seed: 1
+[2019-06-03 23:52:51]: bert data_prep_01.py[line:20] INFO  RAW datafile: data\raw\Train.csv
+[2019-06-03 23:52:51]: bert data_prep_01.py[line:22] INFO  Reading 1000 items from datafile
+[2019-06-03 23:52:51]: bert data_prep_01.py[line:61] INFO  Max label count per data item 5
+[2019-06-03 23:52:51]: bert data_prep_01.py[line:73] INFO  Unique labels: 1402
+[2019-06-03 23:52:51]: bert data_prep_01.py[line:97] INFO  Writing data\processed\training.csv...
+[2019-06-03 23:53:28]: bert data_prep_01.py[line:18] INFO  Seed: 1
+[2019-06-03 23:53:28]: bert data_prep_01.py[line:20] INFO  RAW datafile: data\raw\Train.csv
+[2019-06-03 23:53:28]: bert data_prep_01.py[line:22] INFO  Reading 1000 items from datafile
+[2019-06-03 23:53:28]: bert data_prep_01.py[line:61] INFO  Max label count per data item 5
+[2019-06-03 23:53:28]: bert data_prep_01.py[line:73] INFO  Unique labels: 1402
+[2019-06-03 23:53:28]: bert data_prep_01.py[line:98] INFO  Writing data\processed\training.csv...
+[2019-06-03 23:55:11]: bert data_prep_01.py[line:18] INFO  Seed: 1
+[2019-06-03 23:55:11]: bert data_prep_01.py[line:20] INFO  RAW datafile: data\raw\Train.csv
+[2019-06-03 23:55:11]: bert data_prep_01.py[line:22] INFO  Reading 1000 items from datafile
+[2019-06-03 23:55:11]: bert data_prep_01.py[line:61] INFO  Max label count per data item 5
+[2019-06-03 23:55:11]: bert data_prep_01.py[line:73] INFO  Unique labels: 1402
+[2019-06-03 23:55:11]: bert data_prep_01.py[line:98] INFO  Writing data\processed\training.csv...
+[2019-06-03 23:55:43]: bert data_prep_01.py[line:18] INFO  Seed: 1
+[2019-06-03 23:55:43]: bert data_prep_01.py[line:20] INFO  RAW datafile: data\raw\Train.csv
+[2019-06-03 23:55:43]: bert data_prep_01.py[line:22] INFO  Reading 1000 items from datafile
+[2019-06-03 23:55:43]: bert data_prep_01.py[line:61] INFO  Max label count per data item 5
+[2019-06-03 23:55:43]: bert data_prep_01.py[line:73] INFO  Unique labels: 1402
+[2019-06-03 23:55:43]: bert data_prep_01.py[line:98] INFO  Writing data\processed\training.csv...
+[2019-06-03 23:57:21]: bert data_prep_01.py[line:18] INFO  Seed: 1
+[2019-06-03 23:57:21]: bert data_prep_01.py[line:20] INFO  RAW datafile: data\raw\Train.csv
+[2019-06-03 23:57:21]: bert data_prep_01.py[line:22] INFO  Reading 1000 items from datafile
+[2019-06-03 23:57:21]: bert data_prep_01.py[line:61] INFO  Max label count per data item 5
+[2019-06-03 23:57:21]: bert data_prep_01.py[line:73] INFO  Unique labels: 1402
+[2019-06-03 23:57:21]: bert data_prep_01.py[line:100] INFO  Writing data\processed\training.csv...
+[2019-06-03 23:57:57]: bert data_prep_01.py[line:18] INFO  Seed: 1
+[2019-06-03 23:57:57]: bert data_prep_01.py[line:20] INFO  RAW datafile: data\raw\Train.csv
+[2019-06-03 23:57:57]: bert data_prep_01.py[line:22] INFO  Reading 1000 items from datafile
+[2019-06-03 23:57:57]: bert data_prep_01.py[line:61] INFO  Max label count per data item 5
+[2019-06-03 23:57:57]: bert data_prep_01.py[line:73] INFO  Unique labels: 1402
+[2019-06-03 23:57:57]: bert data_prep_01.py[line:100] INFO  Writing data\processed\training.csv...
+[2019-06-03 23:58:33]: bert data_prep_01.py[line:18] INFO  Seed: 1
+[2019-06-03 23:58:33]: bert data_prep_01.py[line:20] INFO  RAW datafile: data\raw\Train.csv
+[2019-06-03 23:58:33]: bert data_prep_01.py[line:22] INFO  Reading 1000 items from datafile
+[2019-06-03 23:58:33]: bert data_prep_01.py[line:61] INFO  Max label count per data item 5
+[2019-06-03 23:58:33]: bert data_prep_01.py[line:73] INFO  Unique labels: 1402
+[2019-06-03 23:58:33]: bert data_prep_01.py[line:98] INFO  Writing data\processed\training.csv...
+[2019-06-03 23:59:57]: bert data_prep_01.py[line:18] INFO  Seed: 1
+[2019-06-03 23:59:57]: bert data_prep_01.py[line:20] INFO  RAW datafile: data\raw\Train.csv
+[2019-06-03 23:59:57]: bert data_prep_01.py[line:22] INFO  Reading 10000 items from datafile
+[2019-06-03 23:59:57]: bert data_prep_01.py[line:61] INFO  Max label count per data item 5
+[2019-06-03 23:59:57]: bert data_prep_01.py[line:73] INFO  Unique labels: 6124
+[2019-06-03 23:59:57]: bert data_prep_01.py[line:98] INFO  Writing data\processed\training.csv...
+[2019-06-04 00:22:07]: bert data_prep_01.py[line:18] INFO  Seed: 1
+[2019-06-04 00:22:07]: bert data_prep_01.py[line:20] INFO  RAW datafile: data\raw\Train.csv
+[2019-06-04 00:22:07]: bert data_prep_01.py[line:22] INFO  Reading 10000 items from datafile
+[2019-06-04 00:22:08]: bert data_prep_01.py[line:61] INFO  Max label count per data item 5
+[2019-06-04 00:22:08]: bert data_prep_01.py[line:73] INFO  Unique labels: 6124
+[2019-06-04 00:22:08]: bert data_prep_01.py[line:98] INFO  Writing data\processed\training.csv...
+[2019-06-04 00:23:21]: bert data_prep_01.py[line:18] INFO  Seed: 1
+[2019-06-04 00:23:21]: bert data_prep_01.py[line:20] INFO  RAW datafile: data\raw\Train.csv
+[2019-06-04 00:23:21]: bert data_prep_01.py[line:22] INFO  Reading 50000 items from datafile
+[2019-06-04 00:23:22]: bert data_prep_01.py[line:61] INFO  Max label count per data item 5
+[2019-06-04 00:23:22]: bert data_prep_01.py[line:73] INFO  Unique labels: 13892
+[2019-06-04 00:23:23]: bert data_prep_01.py[line:98] INFO  Writing data\processed\training.csv...
+[2019-06-04 00:47:16]: bert data_prep_01.py[line:18] INFO  Seed: 1
+[2019-06-04 00:47:16]: bert data_prep_01.py[line:20] INFO  RAW datafile: data\raw\Train.csv
+[2019-06-04 00:47:16]: bert data_prep_01.py[line:22] INFO  Reading None items from datafile
+[2019-06-04 00:49:13]: bert data_prep_01.py[line:61] INFO  Max label count per data item 5
+[2019-06-04 00:49:16]: bert data_prep_01.py[line:73] INFO  Unique labels: 42048
+[2019-06-04 00:49:44]: bert data_prep_01.py[line:98] INFO  Writing data\processed\training.csv...
+[2019-06-04 06:50:04]: bert data_prep_01.py[line:18] INFO  Seed: 1
+[2019-06-04 06:50:04]: bert data_prep_01.py[line:20] INFO  RAW datafile: data\raw\Train.csv
+[2019-06-04 06:50:04]: bert data_prep_01.py[line:22] INFO  Reading 20000 items from datafile
+[2019-06-04 06:50:07]: bert data_prep_01.py[line:61] INFO  Max label count per data item 5
+[2019-06-04 06:50:07]: bert data_prep_01.py[line:73] INFO  Unique labels: 8938
+[2019-06-04 06:50:07]: bert data_prep_01.py[line:98] INFO  Writing data\processed\training.csv...
+[2019-06-04 06:50:08]: bert data_prep_01.py[line:103] INFO  Done!

@@ -1,0 +1,3 @@
+[2019-06-05 23:03:20]: bert train.py[line:11] INFO  seed is 1
+[2019-06-05 23:21:50]: bert train.py[line:12] INFO  seed is 1
+[2019-06-05 23:21:50]: bert train.py[line:15] INFO  starting load data from disk
